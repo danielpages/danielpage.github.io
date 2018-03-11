@@ -8,7 +8,7 @@ google-ID: 'pkhabkw'
 menu:
 - {name: 'Statistic', folder: 'pages', file: 'facts.html'}
 - {name: 'Baseball', folder: 'pages', file: 'resources.html'}
-- {name: 'SQL', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Computer', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Photo', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
