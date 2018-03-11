@@ -7,4 +7,4 @@ tags: [sample]
 image: 74930001.jpg
 ---
 
-travel  japan osaka kiyomizudera
+travel japan osaka kiyomizudera
