@@ -6,10 +6,10 @@ disqus:
 google-ID: 'pkhabkw'
 
 menu:
-- {name: 'Statistic', folder: 'pages', file: 'facts.html'}
-- {name: 'Baseball', folder: 'pages', file: 'resources.html'}
-- {name: 'Computer', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Photo', folder: 'pages', file: 'documentation.html'}
+- {name: 'Statistic', folder: 'pages', file: 'Statistic.html'}
+- {name: 'Baseball', folder: 'pages', file: 'Baseball.html'}
+- {name: 'Computer', folder: 'pages', file: 'Computer.html'}
+- {name: 'Photo', folder: 'pages', file: 'Photo.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
