@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "travel osaka"
+title: "travel japan"
 author: "ki"
 categories: Photo
 tags: [test]
