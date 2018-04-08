@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "travel japan"
+title: "Travel Japan"
 author: "ki"
 categories: Photo
-tags: [test]
+tags: [My Travel]
 image: 74930001.jpg
 ---
 
-travel japan osaka kiyomizudera
+Travel Japan Osaka Kiyomizudera
